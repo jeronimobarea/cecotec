@@ -24,7 +24,7 @@ email: test@test.com \
 password: 12345678A
 
 Normal user: \
-email: example@example.com
+email: example@example.com \
 password: Qwerty123-
 
 ### Start server
