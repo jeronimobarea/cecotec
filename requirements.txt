@@ -1,0 +1,10 @@
+# DJANGO
+Django
+# REST FRAMEWORK
+djangorestframework
+# REST FILTER
+django-filter
+# REST REGISTRATION
+django-rest-registration
+# REST OAUTH2
+django-rest-framework-social-oauth2
