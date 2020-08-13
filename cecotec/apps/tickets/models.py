@@ -47,8 +47,8 @@ class Ticket(TimeControl):
         email = EmailMessage(
             f'{self.client.email} has made a new purchase!',
             f'{self.client.email} has purchased a total of {self.total()}',
-            'jeronimobarealucas@gmail.com',
-            ['jeronimobarealucas@gmail.com'],
+            'YOUR EMAIL',
+            ['YOUR EMAIL'],
         )
         email.attach('ticket.csv', csvfile.getvalue(), 'text/csv')
         email.send()
