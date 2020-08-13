@@ -58,4 +58,4 @@ python manage.py runserver --settings=cecotec.settings.base
 
 ### Use demo
 Login in the admin site 127.0.0.1/admin. \
-Click on tickets and create a new one, when you save the ticket you will get an email in the specified email(go to apps>tickets>models and change in "def save" the jeronimobarealucas@gmail.com with your email) direction with an csv file in it.
+Click on tickets and create a new one, when you save the ticket you will get an email in the specified email(go to apps>tickets>models and change in "def save" the YOUR EMAIL with your email) direction with an csv file in it.
